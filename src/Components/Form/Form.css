@@ -1,0 +1,24 @@
+.Card {
+  margin: auto;
+  height: 550px;
+  width: 40%;
+}
+
+.wrapper {
+  display: block;
+  position: relative;
+  top: 15%;
+  width: 450px;
+  height: 550px;
+  box-shadow: 1px 5px 10px 1px #333;
+  overflow: hidden;
+  border-radius: 15px;
+  background: transparent;
+  margin: auto;
+}
+
+.login, .register{
+  display: flex;
+  flex-direction: column;
+}
+
