@@ -1,5 +1,5 @@
-# Minor Project- SmartBrain Face Recognition App
-
+# SmartBrainAPI
+### Back End of SmartBrain
 -----------------
 ## This is a web application made using:-
 * REACT JS
@@ -12,23 +12,22 @@
 <p>It allows users to signin or register and then directs them to home page. Then the user can enter any image url in the inage link form and press the detect</p>
 <p>After the user has clicked detect the webapp fetchs the image and detects faces from it and the count of your detecting faces is always remembered</p>
 
+----
 
+### Here are some examples
+* Sign in
+![alt text](https://github.com/Rishikesh-12/SmartBrain/blob/master/images/signin.png)
+* Register
+![alt text](https://github.com/Rishikesh-12/SmartBrain/blob/master/images/register.png)
+* Home
+![alt text](https://github.com/Rishikesh-12/SmartBrain/blob/master/images/1.png)
+![alt text](https://github.com/Rishikesh-12/SmartBrain/blob/master/images/2.png)
+![alt text](https://github.com/Rishikesh-12/SmartBrain/blob/master/images/3.png)
 
-## Dependencies or Modules used
-<p>Robohash for Logo</p>
-<p>React Tilt npm package for Logo animation</p>
-<p>shields.io to update readme status automatically</p>
-<p>styled-components for creating src/Components/Styles/Styles.js file (alternative way to apply css to directly components)</p>
-<p>React-particle-js for background particles</p>
-<p>Tachyons for some of the pre-defined styling</p>
-<p>Heroku for deploying the server and database</p>
-
-
-## Steps to run this app
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
-
-grab Clarifai API key [here](https://www.clarifai.com/)
-
+### To use this :-
+* Clone this repo
+* npm install
+* Kindly use your own api key. Grab it for free from [here](https://portal.clarifai.com/apps)
+* npm start
+-----------------------
+### for Front End click [Here](https://github.com/Rishikesh-12/SmartBrain)
