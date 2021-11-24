@@ -1,7 +1,7 @@
-# SmartBrain 
-Minor Project
+# Minor Project- SmartBrain Face Recognition App
 
-#Dependencies or Modules used
+
+## Dependencies or Modules used
 <p>Robohash for Logo</p>
 <p>React Tilt npm package for Logo animation</p>
 <p>shields.io to update readme status automatically</p>
@@ -11,7 +11,7 @@ Minor Project
 <p>Heroku for deploying the server and database</p>
 
 
-
+## Steps to run this app
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
